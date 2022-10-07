@@ -1,0 +1,1 @@
+python ./taikhoansodep.py > taikhoan.csv
